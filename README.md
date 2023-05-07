@@ -6,6 +6,9 @@ To install the required modules you can open command prompt in the downloaded fo
 pip install -r requirements.txt
 ```
 
+there are different html files in the templates folder and by default the template chosen is **index.html**
+
+
 Once the modules are installed go ahead and run the **plagiarism_analyzer.py** file 
 
 
